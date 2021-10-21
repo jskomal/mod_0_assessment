@@ -1,0 +1,12 @@
+var famousPerson =  'Tom Hanks';
+var isActive = true;
+famousPerson = 'Julia Roberts';
+var num3 = 3;
+var num9 = 9;
+var sum = num3 + num9;
+console.log(sum);
+var animals = ['dog', 'cat', 'lion'];
+console.log(animals);
+animals.splice(0,1);
+console.log(animals);
+console.log(famousPerson.length);
